@@ -1,6 +1,8 @@
 # node-websocket-chat
 
-Chat application - NodeJS websocket
+Real time chat application - NodeJS + Socket.io
+
+(Projeto desenvolvido na imersão NodeJS NLW#4)
 
 ## To run:
 Install dependencies:
